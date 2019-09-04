@@ -3,7 +3,7 @@ entries:
   wordpress:
   - apiVersion: v1
     appVersion: 5.2.2
-    created: "2019-09-04T12:49:19.651841214Z"
+    created: "2019-09-04T12:50:48.859865437Z"
     description: This is the one that uses PVC, '30082' nodeport, pvc reclaim policy
       retainment
     digest: 4bec4c5315c4c13302f1f27aa458d86768d80e250b140ed2a31ba871fda557ee
@@ -29,7 +29,7 @@ entries:
     version: 7.4.2
   - apiVersion: v1
     appVersion: 5.2.2
-    created: "2019-09-04T12:49:19.650335477Z"
+    created: "2019-09-04T12:50:48.857544423Z"
     description: This is the one that uses PVC, and '30082' nodeport
     digest: a530962165ac736a6a7f3635a6d490a4929c2ac9a49736ff3d72752888dbaa4a
     engine: gotpl
@@ -54,7 +54,7 @@ entries:
     version: 7.4.1
   - apiVersion: v1
     appVersion: 5.2.2
-    created: "2019-09-04T12:49:19.648890623Z"
+    created: "2019-09-04T12:50:48.855980797Z"
     description: This is the one that uses PVC, and '30081' nodeport
     digest: 9c80402404de68909198ae115e3f1104697e7b83323eae58ef19fac274cc5252
     engine: gotpl
@@ -79,7 +79,7 @@ entries:
     version: 7.4.0
   - apiVersion: v1
     appVersion: 5.2.2
-    created: "2019-09-04T12:49:19.647464257Z"
+    created: "2019-09-04T12:50:48.854325879Z"
     description: This is the one that does not use PVC
     digest: 12ba8b9ce57ac63c295d4def487e5e56507569778f44210ad75a978896df829c
     engine: gotpl
@@ -104,7 +104,7 @@ entries:
     version: 7.3.0
   - apiVersion: v1
     appVersion: 5.2.2
-    created: "2019-09-04T12:49:19.645668833Z"
+    created: "2019-09-04T12:50:48.852949613Z"
     description: This is the one that I put there.
     digest: 04c215f3aa6404739be3e6503aecbdabed4cc3f7c12d5bf43229485edd9fcc67
     engine: gotpl
@@ -127,4 +127,4 @@ entries:
     urls:
     - wordpress-7.2.1.tgz
     version: 7.2.1
-generated: "2019-09-04T12:49:19.642062732Z"
+generated: "2019-09-04T12:50:48.850430063Z"
